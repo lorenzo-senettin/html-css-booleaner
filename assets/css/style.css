@@ -4,10 +4,25 @@
   --thb-llblue: #b1e5f2;
 }
 
-#site_header {
+header {
   background-color: var(--thb-lblue);
+  background-image: url(../img/pattern.png);
+  background-repeat: repeat;
+  height: 160px;
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+
 }
 
+.logo {
+  width: 200px;
+}
+
+.yw {
+
+  background-color: yellow;
+}
 
 #top-table {
   background-color: var(--thb-blue);
@@ -16,4 +31,5 @@
 
 .tablecoll {
   background-color: var(--thb-llblue);
+
 }
