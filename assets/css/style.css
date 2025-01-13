@@ -1,0 +1,19 @@
+:root {
+  --thb-lblue: #4ea0ff;
+  --thb-blue: #20a9e5;
+  --thb-llblue: #b1e5f2;
+}
+
+#site_header {
+  background-color: var(--thb-lblue);
+}
+
+
+#top-table {
+  background-color: var(--thb-blue);
+  color: white;
+}
+
+.tablecoll {
+  background-color: var(--thb-llblue);
+}
