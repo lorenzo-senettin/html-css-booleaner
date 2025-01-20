@@ -46,3 +46,22 @@ header {
   background-color: var(--thb-llblue);
 
 }
+
+.opag {
+  color: grey;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+
+.monitor {
+  background-image: url(../img/monitor.jpg);
+  width: 300px;
+  height: 300px;
+}
+
+.graph {
+  background-image: url(../img/graph.jpg);
+  width: 300px;
+  height: 300px;
+}
